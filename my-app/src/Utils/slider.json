@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Aliva Priva Jardin",
+        "price": "47,043",
+        "detail": "Sector V Kolkata WB",
+        "image": "./home.jpg"
+    },
+
+    {
+        "name": "Asatti Garden City",
+        "price": "57,043",
+        "detail": "Sector V Noida",
+        "image": "./realstate.jpg"
+
+    },
+
+    {
+        "name": "Citrain Puri ",
+        "price": "37,043",
+        "detail": "Delhi",
+        "image": "./residencies.jpg"
+    },
+
+    {
+        "name": "Citrain Puri ",
+        "price": "37,043",
+        "detail": "Odisha",
+        "image": "./residencies2.jpg"
+    },
+
+    {
+        
+            "name": "Aliva Priva Jardin",
+            "price": "47,043",
+            "detail": "Sector V Kolkata WB",
+            "image": "./home.jpg"
+        
+    },
+
+    {
+        "name": "Citrain Puri ",
+        "price": "37,043",
+        "detail": "Delhi",
+        "image": "./residencies.jpg"
+    },
+
+    {
+        "name": "Citrain Puri ",
+        "price": "37,043",
+        "detail": "Delhi",
+        "image": "./residencies.jpg"
+    },
+
+    {
+        "name": "Citrain Puri ",
+        "price": "37,043",
+        "detail": "Odisha",
+        "image": "./residencies2.jpg"
+    },
+
+    {
+        
+            "name": "Aliva Priva Jardin",
+            "price": "47,043",
+            "detail": "Sector V Kolkata WB",
+            "image": "./home.jpg"
+        
+    }
+
+
+]
